@@ -1,5 +1,5 @@
 <meta charset='utf-8'>
-<a href="add.php">添加文章</a>
+<a href="add.php">添加文章</a
 
 <?php
     include "conn.php";
