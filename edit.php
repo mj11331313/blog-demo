@@ -1,4 +1,4 @@
-<?php
+<?ph
     include "conn.php";
     // 进入页面后默认显示修改前的内容：
     if(isset($_GET['id'])){
